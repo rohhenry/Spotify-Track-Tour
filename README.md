@@ -39,13 +39,13 @@ For better performance clone this repo and run this app locally, you will need t
 
 ## Tech Used:
 
-frontend: javascript, react, material-ui
+frontend: javascript, react, material-ui,
 
 backend: python, flask, heroku
 
 database: google firestore
 
-other tools: sklearn, numpy, pandas
+other tools: spotify api, sklearn, numpy, pandas
 
 ## Languages Used:
 
