@@ -4,7 +4,9 @@ A full stack app that plays tracks using a customizable and interactive machine 
 You can check out the web app here: https://rohhenry.github.io/spotify-web/
 
 This repo is where I put my links,
+
 the frontend code can be found here: https://github.com/rohhenry/spotify-web
+
 the backend code can be found here: tba
 
 About:
