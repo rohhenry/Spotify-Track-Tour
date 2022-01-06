@@ -3,13 +3,17 @@ A full stack app that plays tracks using a customizable and interactive machine 
 
 You can check out the web app here: https://rohhenry.github.io/spotify-web/
 
+or the demo here: tba
+
+
 This repo is where I put my links,
 
-the frontend code can be found here: https://github.com/rohhenry/spotify-web
+The frontend code can be found here: https://github.com/rohhenry/spotify-web
 
-the backend code can be found here: tba
+The backend code can be found here: tba
 
-About:
+
+## About:
 This app takes your preferences and helps you create new playlists with a custom machine learning model.
 
 The goal is to introduce you to new, diverse, songs in an interactive way.
