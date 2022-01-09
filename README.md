@@ -2,7 +2,7 @@
 
 You can check out the **web app** here: https://rohhenry.github.io/spotify-web/
 
-Or the **demo** here: tba
+Or watch the **demo video** here: tba
 
 
 ## Source Code:
